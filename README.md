@@ -3,5 +3,6 @@ This repository Checks the effective receptive field of Enformer and identifies 
 
 
 
-Base Code writen by : Deeomind Research
-Code Modfied and Tested for the above purposeby : Sethuraman T V, Simon Mathis( University of Cambridge), Mike Phuycharoen ( University of Manachester). 
+**Base Code writen by** : Deeomind Research
+
+**Code Modfied and Tested for the above purpose by** : Sethuraman T V, Simon Mathis( University of Cambridge), Mike Phuycharoen ( University of Manachester). 
